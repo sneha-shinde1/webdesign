@@ -1,0 +1,25 @@
+
+<style type="text/class">
+body{
+background.image:url(inspirational-fb-cover-resume-photos-for-facebook.jpg);
+background-size:cover;
+back-attach:fixed;
+}
+
+.content{
+background:white;
+width:50%;
+padding:405;
+margine:100px auto;
+font-family-calibri;
+}
+</head>
+
+p{
+font-size:25px;
+colour: black;
+}
+</style>
+<div class="content">
+para......
+</div>

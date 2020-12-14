@@ -1,0 +1,33 @@
+﻿GATE Syllabus for General Aptitude (GA)
+
+General Aptitude (GA) is a common section in all GATE Papers. 
+General Aptitude holds 15% weightage. 
+The questions in GA are based on verbal ability and numerical ability.
+The 2 subsections in GA section are as follows:
+
+Verbal Ability- The following topics are tested in this section:
+
+    English Grammar
+    Sentence Completion
+    Verbal Analogies
+    Word Groups
+    Instructions
+    Critical Reasoning
+    Verbal Deduction
+
+Numerical Ability- This section comprises of questions which test the basic mathematical skills of candidates.
+The following subtopics included in this section are:
+
+    Numerical computation
+    Numerical Estimation
+    Numerical Reasoning
+    Data Interpretation
+
+Important Books For GATE General Aptitude Section
+GATE Recommended Books
+
+GATE General Aptitude Book Name	                                  Author
+
+1.A Modern Approach to Verbal & Non-Verbal Reasoning	R.S. Aggarwal
+2.Quantitative Aptitude For Competitive Examinations	R.S. Aggarwal
+3.High School English Grammar & Composition	                 Wrenand Martin
